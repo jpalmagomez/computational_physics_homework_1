@@ -1,2 +1,3 @@
-# computational_physics_homework_1
-PHYS-GA 2000 (Computational Physics) Homework 1 code solutions (9/21/2026)
+# computational_physics_homework
+PHYS-GA 2000 (Computational Physics) code solutions
+- Homework 1 (9/21/2026)
